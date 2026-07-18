@@ -1,0 +1,36 @@
+{
+  "created_at": "2026-07-18",
+  "owner": "maux339-cpu",
+  "meta_repo": "https://github.com/maux339-cpu/ai-redteam-arsenal-2026",
+  "local_path": "C:\\Users\\maux3\\repos\\ai-redteam-tools",
+  "repos": [
+    {
+      "name": "T3MP3ST",
+      "fork": "https://github.com/maux339-cpu/T3MP3ST",
+      "upstream": "https://github.com/elder-plinius/T3MP3ST",
+      "role": "autonomous_pentest_harness",
+      "license": "AGPL-3.0"
+    },
+    {
+      "name": "wallbreaker",
+      "fork": "https://github.com/maux339-cpu/wallbreaker",
+      "upstream": "https://github.com/JailbrokenAI/wallbreaker",
+      "role": "llm_redteam_jailbreak_cli",
+      "license": "AGPL-3.0"
+    },
+    {
+      "name": "OBLITERATUS",
+      "fork": "https://github.com/maux339-cpu/OBLITERATUS",
+      "upstream": "https://github.com/elder-plinius/OBLITERATUS",
+      "role": "refusal_removal_toolkit",
+      "license": "AGPL-3.0"
+    },
+    {
+      "name": "heretic",
+      "fork": "https://github.com/maux339-cpu/heretic",
+      "upstream": "https://github.com/p-e-w/heretic",
+      "role": "automatic_abliteration",
+      "license": "AGPL-3.0"
+    }
+  ]
+}
