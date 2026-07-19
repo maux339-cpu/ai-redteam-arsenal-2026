@@ -1,5 +1,6 @@
 {
   "created_at": "2026-07-18",
+  "updated_at": "2026-07-19",
   "owner": "maux339-cpu",
   "meta_repo": "https://github.com/maux339-cpu/ai-redteam-arsenal-2026",
   "local_path": "C:\\Users\\maux3\\repos\\ai-redteam-tools",
@@ -31,6 +32,14 @@
       "upstream": "https://github.com/p-e-w/heretic",
       "role": "automatic_abliteration",
       "license": "AGPL-3.0"
+    },
+    {
+      "name": "strix",
+      "fork": "https://github.com/maux339-cpu/strix",
+      "upstream": "https://github.com/usestrix/strix",
+      "role": "ai_autonomous_pentest_agents",
+      "license": "Apache-2.0",
+      "notes": "Open-source AI pentest agents (runtime dinamico + PoC). Uso so em alvos autorizados."
     }
   ]
 }
